@@ -122,8 +122,8 @@
 
 # PrimeGenerator.py =>
 -       millerRabinTest:
-            If a number successfully passes this test then the probability of it being a prime
-            number is high and if any number fails this test then we are sure that the number is not prime
+            If a number successfully passes this test then the probability of it being a prime number
+            is high and if any number fails this test then we are sure that the number is not prime
 
 -       smallPrimes:
             This function returns a list of all prime numbers ranging from 2 to 1000
