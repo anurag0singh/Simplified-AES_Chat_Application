@@ -1,31 +1,20 @@
-# ------------------------------------------------------------------------------------------------- #
-# Author's Details :-
-# 2019211
-# Anurag Singh
-# ------------------------------------------------------------------------------------------------- #
-
-# ------------------------------------------------------------------------------------------------- #
 # Instructions for running the programme :
-#       ~ First run server.py
-#       ~ Then run client.py
-#       ~ Input message
+       ~ First run server.py
+       ~ Then run client.py
+       ~ Input message
             Note : The message should be of 16 bits or two letters example : 'ok', 'ab', etc.
-#       ~ Input secret key to be used
+       ~ Input secret key to be used
             Note : The key must be in binary representation and must be of 16 bits
-#       ~ You are done !
-# ------------------------------------------------------------------------------------------------- #
+       ~ You are done !
 
-# ------------------------------------------------------------------------------------------------- #
 # Name of all the files :
-# - AES.py
-# - RSA.py
-# - server.py
-# - client.py
-# - PrimeGenerator.py
-# - hash.py
-# ------------------------------------------------------------------------------------------------- #
+ - AES.py
+ - RSA.py
+ - server.py
+ - client.py
+ - PrimeGenerator.py
+ - hash.py
 
-# ------------------------------------------------------------------------------------------------- #
 # Short description about all the files :
 
 # AES.py =>
@@ -147,4 +136,3 @@
 
 # hash.py=>
 -       This file is for generating the message digest with the help of sha256 hash algorithm.
-# ------------------------------------------------------------------------------------------------- #
