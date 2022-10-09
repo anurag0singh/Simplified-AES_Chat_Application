@@ -1,3 +1,6 @@
+# Overall Working :
+![Simplified AES](https://user-images.githubusercontent.com/71708571/194760053-72e1a875-8cc3-4756-8ae9-a0e3914898bc.jpg)
+
 # Instructions for running the programme :
        ~ First run server.py
        ~ Then run client.py
